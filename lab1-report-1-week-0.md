@@ -1,2 +1,1 @@
-![Image](\Users\Adria\Desktop\CSE15L pictures\CSE15L-lab-reports)
-
+![Image](https://github.com/adrianwongg1/cse15l-lab-reports/blob/main/Screenshot1.png)
