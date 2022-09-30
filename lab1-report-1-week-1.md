@@ -5,7 +5,7 @@
 
 1. You will want to download VSCode.
 [Link to VSCode](https://code.visualstudio.com/)
-![Image](https://github.com/adrianwongg1/cse15l-lab-reports/blob/main/CSE15L%20pictures/VSCode%20Website.png)
+![Image](https://adrianwongg1.github.io/cse15l-lab-reports/CSE15L%20pictures/VSCode%20Website.png)
 (Make sure you download the software based on your operating software)
 
 2. Run the installer and open VSCode Terminal at the top toolbar.
@@ -25,7 +25,7 @@ Note- the terminal will not give any feedback on your inputs.
 ![Image](https://github.com/adrianwongg1/cse15l-lab-reports/blob/main/CSE15L%20pictures/sshLogin.PNG)
 
 
-# Trying Commands
+**Trying Commands**
 
 1. First, a basic command is running `ls`
 ![Image](https://github.com/adrianwongg1/cse15l-lab-reports/blob/main/CSE15L%20pictures/ls.png)
@@ -36,7 +36,7 @@ Note- the terminal will not give any feedback on your inputs.
 3. Doing the `exit` command in the terminal will terminate all processes and log you out.
 ![Image](https://github.com/adrianwongg1/cse15l-lab-reports/blob/main/CSE15L%20pictures/exit.png)
 
-# Moving Files with scp
+**Moving Files with scp**
 
 1. To move a file with scp, drop the file onto your desktop.
 
@@ -46,8 +46,8 @@ Note- the terminal will not give any feedback on your inputs.
 
 3. Then log back into ssh and use the `ls` command for it to pop up in the directory.
 
-# Setting up SSH key.
-## Authorizing Local Computer to Remote Computer
+**Setting up SSH key**
+**Authorizing Local Computer to Remote Computer**
 
 1. In the terminal, type `ssh-keygen`
 2. When it asks to "Enter file in which to save key", just press enter.
