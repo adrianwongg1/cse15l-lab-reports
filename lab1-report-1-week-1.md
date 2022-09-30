@@ -47,8 +47,7 @@ Note- the terminal will not give any feedback on your inputs.
 3. Then log back into ssh and use the `ls` command for it to pop up in the directory.
 
 # Setting up SSH key.
-
-# Authorizing Local Computer to Remote Computer
+## Authorizing Local Computer to Remote Computer
 
 1. In the terminal, type `ssh-keygen`
 2. When it asks to "Enter file in which to save key", just press enter.
