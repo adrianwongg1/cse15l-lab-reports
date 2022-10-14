@@ -68,7 +68,7 @@ Note - again, replace the two spaces with your unique 2 letter or digit code
 **Optimizing Remote Running**  
 Now that you have sucessfully enabled ssh login, you can make remote running more efficient.
 
-1. Start by typing in the following command.
+1. Start by typing in the following command.  
 `ssh cs15lfa22__@ieng6.ucsd.edu "ls"`
 
 This will allow you to run the command directly on the server,
@@ -76,7 +76,7 @@ and will list the home directory on the remote server.
 
 2. You are able to also run simultaneous commands by separating the 
 commands with a semicolon.
-For example:
+For example:  
 `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
 
 Note: Using the up arrow allows you to recall the previous commands that was run.
