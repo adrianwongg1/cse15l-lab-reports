@@ -65,7 +65,7 @@ Note - again, replace the two spaces with your unique 2 letter or digit code
 
 6. Now, logging into ssh will save much time because you don't have to reinput your password everytime.
 
-**Optimizing Remote Running**
+**Optimizing Remote Running**  
 Now that you have sucessfully enabled ssh login, you can make remote running more efficient.
 
 1. Start by typing in the following command.
