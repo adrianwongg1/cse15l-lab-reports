@@ -17,7 +17,7 @@
 `ssh cs15lfa22@ieng6.ucsd.edu`
 In between "22" and "@", you will put your two letter or digit code assigned to you.
 You will find your unique 2 letter username by looking up your username here:  
-[Link](https://sdacs.ucsd.edu/~icc/index.php)
+[Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 
 ![Image](https://adrianwongg1.github.io/cse15l-lab-reports/CSE15L%20pictures/ssh.PNG)
 
