@@ -16,6 +16,9 @@
 3. In the newly opened terminal, you will Log into the remote desktop:
 `ssh cs15lfa22@ieng6.ucsd.edu`
 In between "22" and "@", you will put your two letter or digit code assigned to you.
+You will find your unique 2 letter username by looking up your username here:
+![Link](https://sdacs.ucsd.edu/~icc/index.php)
+
 ![Image](https://adrianwongg1.github.io/cse15l-lab-reports/CSE15L%20pictures/ssh.PNG)
 
 You will type in your password after.
@@ -61,4 +64,23 @@ Note- the terminal will not give any feedback on your inputs.
 Note - again, replace the two spaces with your unique 2 letter or digit code
 
 6. Now, logging into ssh will save much time because you don't have to reinput your password everytime.
+
+**Optimizing Remote Running**
+Now that you have sucessfully enabled ssh login, you can make remote running more efficient.
+
+1. Start by typing in the following command.
+`ssh cs15lfa22__@ieng6.ucsd.edu "ls"`
+
+This will allow you to run the command directly on the server,
+and will list the home directory on the remote server.
+
+2. You are able to also run simultaneous commands by separating the 
+commands with a semicolon.
+For example:
+`cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
+
+Note: Using the up arrow allows you to recall the previous commands that was run.
+
+
+
 
