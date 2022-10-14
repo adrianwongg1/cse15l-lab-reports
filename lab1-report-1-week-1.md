@@ -16,8 +16,8 @@
 3. In the newly opened terminal, you will Log into the remote desktop:
 `ssh cs15lfa22@ieng6.ucsd.edu`
 In between "22" and "@", you will put your two letter or digit code assigned to you.
-You will find your unique 2 letter username by looking up your username here:
-![Link](https://sdacs.ucsd.edu/~icc/index.php)
+You will find your unique 2 letter username by looking up your username here:  
+[Link](https://sdacs.ucsd.edu/~icc/index.php)
 
 ![Image](https://adrianwongg1.github.io/cse15l-lab-reports/CSE15L%20pictures/ssh.PNG)
 
@@ -36,14 +36,14 @@ Note- the terminal will not give any feedback on your inputs.
 2. Second, running `ls -a`
 ![Image](https://adrianwongg1.github.io/cse15l-lab-reports/CSE15L%20pictures/ls-a.PNG)
 
-3. Doing the `exit` command in the terminal will terminate all processes and log you out.
+3. Doing the `exit` command in the terminal will terminate all processes and log you out.  
 ![Image](https://adrianwongg1.github.io/cse15l-lab-reports/CSE15L%20pictures/exit.png)
 
 **Moving Files with scp**
 
 1. To move a file with scp, drop the file onto your desktop.
 
-2. Go into the Terminal and type in the following command.
+2. Go into the Terminal and type in the following command.  
 `scp FILENAME.java cs15lfa22__@ieng6.ucsd.edu:~/`
 ![Image](https://adrianwongg1.github.io/cse15l-lab-reports/CSE15L%20pictures/scp.PNG)
 
