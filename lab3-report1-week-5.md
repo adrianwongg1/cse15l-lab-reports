@@ -1,4 +1,4 @@
-## Researching Commands
-# Adrian Wong
+# Researching Commands
+## Adrian Wong
 
 Grep
