@@ -1,7 +1,7 @@
 # Researching Commands
 ## Adrian Wong
 
-Grep 
+**Grep 
 
 Grep takes in a string, followed by files to search in to find the coressponding lines containing the string.
 
