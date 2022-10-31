@@ -2,6 +2,7 @@
 ## Adrian Wong
 
 Grep 
+
 Grep takes in a string, followed by files to search in to find the coressponding lines containing the string.
 
 1. Using the Skill-demo1 files, `grep "taxation" */*/*.txt` looks for files within technical 
