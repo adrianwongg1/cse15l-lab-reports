@@ -6,3 +6,4 @@
 
 [lab3-week5-report1](https://adrianwongg1.github.io/cse15l-lab-reports/lab3-report1-week-5.html)
 
+[lab4-week5-report1](https://adrianwongg1.github.io/cse15l-lab-reports/lab4-report1-week7.html)
