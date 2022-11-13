@@ -41,5 +41,5 @@ code or files without pressing so many buttons I think saves more time in the lo
 2. I think if it was a large number of files and it takes up much computer power to run the 
 commands and scripts, doing vim on remote would save a lot of computering power locally and 
 could run the scripts or commands that might take a local computer much slower than a server
-would.s
+would.
 
