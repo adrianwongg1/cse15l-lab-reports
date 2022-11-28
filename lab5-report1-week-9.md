@@ -80,7 +80,7 @@ Using Test 1's example, grade.sh first starts with removing the directory studen
 git clone gets called, where it takes in the argument of the URL after the `grade.sh` in the bash terminal.
 Line 17 cd's into the folder student-submission, where the if statement command in line 19 runs. The standard output 
 is empty because the if-statement command returns false. As such, the standard error text for my particular script
-is **File not found, check file name. Some tests failed. Total: 0 pts.**. The return code is 1 because it has failed 
+is **File not found, check file name. Some tests failed. Total: 0 pts.** The return code is 1 because it has failed 
 to run the command successfully and I had set the exit to return the code of 1. Every line after the exit command in 
 line 26 does not execute, due to the early exit of the false evaluation of the if command in line 19. 
 
